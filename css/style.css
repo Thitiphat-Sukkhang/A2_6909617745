@@ -1,0 +1,51 @@
+body {
+  background-color: bisque;
+} 
+
+header {
+   background-color: orange;
+}
+
+#about {
+  background-color: #fcd5b1;
+  padding: 50px;
+  border: #e87e05 solid 5px ;
+}
+
+#about h2 {
+  background-color: #e3852d;
+  max-width: 50%;
+  max-height: 50%;
+}
+
+.box1 {
+  background-color: #ffc996;
+}
+
+#portfolio-item1 {
+  background-color: #fcd5b1;
+  padding: 50px;
+  border: #e87e05 solid 5px ;
+}
+
+#portfolio-item1 h2 {
+  background-color: #e3852d;
+  max-width: 50%;
+  max-height: 50%;
+}
+
+#portfolio-item2 {
+  background-color: #fcd5b1;
+  padding: 50px;
+  border: #e87e05 solid 5px ;
+}
+
+#portfolio-item2 h2 {
+  background-color: #e3852d;
+  max-width: 50%;
+  max-height: 50%;
+}
+
+.footer {
+  background-color: orange;
+}
